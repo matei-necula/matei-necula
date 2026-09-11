@@ -1,77 +1,70 @@
-<h1 align="center">Hi there, I'm Matei Necula 👋</h1>
-<h3 align="center">Computer Engineering Student & Software Developer</h3>
+<h1 align="center">Hi, I'm Matei Necula 👋</h1>
+<h3 align="center">Computer Engineering Student & Systems Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=matei-necula&style=flat-square&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/matei-necula?style=flat-square&logo=github" alt="GitHub Followers"/>
+  <a href="https://linkedin.com/in/matei-necula"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:matei_necula@outlook.com"><img src="https://img.shields.io/badge/Email-matei__necula%40outlook.com-blue?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Location-Bucharest%2C%20Romania-lightgrey?style=flat-square&logo=googlemaps&logoColor=red" alt="Location" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🎓 I'm a Computer Engineering student in the **Computer Science and Technology Information (CTI)** program at the **Faculty of Mathematics and Computer Science (FMI), University of Bucharest**.
-- 💻 Passionate about low-level systems programming, clean architecture, automated infrastructure, and computer vision/machine learning applications.
-- 🐧 Daily driver of Linux environments (Kali Linux / WSL2) and modern developer tooling.
-- 🏔️ Outside of coding, you'll find me lifting weights, running, exploring mountain trails, or cooking.
+* 🎓 **Education:** Computer Engineering student at the University of Bucharest (Oct. 2025 – June 2029 Expected)[cite: 1].
+* 🛠️ **Systems & Production:** I take systems from architecture to production—setting design, directing builds, and managing infrastructure, credentials, deployment, and live testing against real vendor APIs[cite: 1].
+* 💻 **Core Languages:** Primary focus on C, C++, and Python, adapting to whatever language or stack a project requires[cite: 1].
+* ☁️ **Cloud Architecture:** Certified in AWS Solutions Architecture and Machine Learning, with hands-on infrastructure across AWS and Cloudflare[cite: 1].
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 📜 Certifications & Training
+* **AWS Cloud Quest: Solutions Architect** – Amazon Web Services (Sept. 2026)[cite: 1].
+* **AWS Cloud Quest: Machine Learning** – Amazon Web Services (Sept. 2026)[cite: 1].
+
+---
+
+### 🛠️ Tech Stack & Technical Skills
 
 * **Languages:** 
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-
-* **Backend & Web:** 
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-
-* **Data Science, AI & Math:** 
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black" />
-
-* **DevOps, Tools & Systems:** 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008081?style=flat-square&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-
-* **Hardware & IoT:** 
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
+  `C` · `C++` · `Python`[cite: 1]
+* **Cloud & Infrastructure:** 
+  `AWS (EC2, S3, VPC, Route 53, RDS, DynamoDB, Lambda, IAM, CloudFormation, CloudWatch)` · `Cloudflare (Workers, D1, R2, DNS)` · `Docker` · `GitHub Actions (CI/CD)` · `Linux/Unix`[cite: 1]
+* **Backend & Systems:** 
+  `FastAPI` · `REST API Design` · `PostgreSQL` · `Redis` · `Kafka` · `HashiCorp Vault` · `Open Policy Agent (OPA)`[cite: 1]
+* **Machine Learning & NLP:** 
+  `Amazon SageMaker (Training, Deployment, LLM Fine-Tuning)` · `Sentiment Analysis` · `Speech-to-Text` · `Image Recognition` · `Anomaly Detection`[cite: 1]
+* **Core Computer Science:** 
+  `Data Structures` · `Algorithms` · `Object-Oriented Programming` · `Computer Architecture` · `Numerical Methods`[cite: 1]
 
 ---
 
 ### 📂 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[IAM Orchestrator](https://github.com/matei-necula)** | An autonomous identity-lifecycle management platform. | `Python`, `FastAPI`, `HashiCorp Vault`, `pytest` |
-| **[PlasticPatrol](https://github.com/matei-necula)** | CASSINI Hackathon project combining computer vision and satellite telemetry to detect ocean plastic pollution. | `Python`, `OpenCV`, `FastAPI` |
-| **[HOSVD Image Compression](https://github.com/matei-necula)** | Custom implementation of Higher-Order Singular Value Decomposition for tensor-based image compression without high-level abstractions. | `Python`, `NumPy` |
-| **[Weather API & Parking Sim](https://github.com/matei-necula)** | Weather forecast REST API and interactive 3D parking simulation containerized with Docker. | `FastAPI`, `Docker`, `JavaScript` |
+#### 🔐 [AI-Native IAM Orchestrator](https://iamorchestrator.com) | [GitHub](https://github.com/iamorchestrator)
+* Six-service platform automating the employee joiner/mover/leaver identity lifecycle[cite: 1].
+* Plain-language HR requests are parsed for intent, verified against HRIS, asset, and licence inventories, risk-scored, and evaluated by a deny-by-default policy engine[cite: 1].
+* High-risk operations require human approval in Slack using signed tokens[cite: 1].
+* Automated execution across Okta, Microsoft 365, Google Workspace, Salesforce, GitHub, Slack, and Zoom, reclaiming unused licences[cite: 1].
+* Tamper-evident append-only SHA-256 chained audit log with credentials issued just-in-time from HashiCorp Vault[cite: 1].
+* **Stack:** `Python` · `FastAPI` · `Docker Compose` · `PostgreSQL` · `Redis` · `Kafka` · `Vault` · `OPA`[cite: 1].
+
+#### 🌍 [Catedra](https://geocatedra.com) | [GitHub](https://github.com/geocatedra)
+* Live, subject-agnostic teaching platform for the Romanian geography curriculum, grades 5–12[cite: 1].
+* Unified codebase and database serving two distinct environments: a free public site and a token-gated portal for classes, homework, and grades[cite: 1].
+* Privacy-first architecture: students join via shared class tokens with zero personal data stored, and access control is strictly enforced server-side[cite: 1].
+* Admin publishing directly to production with secure media streaming from Cloudflare R2 object storage[cite: 1].
+* Cryptographically signed randomized test generation practice engine that never exposes correct answers to the client[cite: 1].
+* **Stack:** `Cloudflare Workers` · `Cloudflare D1` · `Cloudflare R2` · `TypeScript` · `React Router`[cite: 1].
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matei-necula&show_icons=true&theme=radical&hide_border=true" alt="Matei's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matei-necula&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+### 🎓 Academic Coursework
+* **University of Bucharest** – Bachelor of Computer Engineering[cite: 1]
+* **Key Coursework:** Data Structures, Algorithms, Object-Oriented Programming, Computer Architecture, Numerical Methods, Computer-Aided Design[cite: 1].
 
 ---
 
-### 📫 How to Reach Me
-- 🌐 **GitHub:** [matei-necula](https://github.com/matei-necula)
+### 📫 Connect With Me
+* **Email:** [matei_necula@outlook.com](mailto:matei_necula@outlook.com)[cite: 1]
+* **LinkedIn:** [@matei-necula](https://linkedin.com/in/matei-necula)[cite: 1]
+* **GitHub:** [@matei-necula](https://github.com/matei-necula)[cite: 1]
