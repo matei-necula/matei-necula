@@ -25,39 +25,41 @@
 ### 🛠️ Tech Stack & Skills
 
 **Languages**
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
 
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-
-**Core CS**
+**Core CS**  
 Data Structures · Algorithms · Object-Oriented Programming · Computer Architecture · Numerical Methods
 
 **Cloud & Infrastructure**
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
 
 - **AWS:** EC2, S3, VPC, Route 53, RDS, DynamoDB, Lambda, IAM, CloudFormation, CloudWatch
 - **Cloudflare:** Workers, D1, R2, DNS
 
 **Backend, Data & Distributed Systems**
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white" />
-<img src="https://img.shields.io/badge/OPA-7D9199?style=flat-square" />
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPA-7D9199?style=flat-square" />
+</p>
 
 REST API design · Git · GitHub
 
-**ML & NLP**
+**ML & NLP**  
 Amazon SageMaker (training, deployment, LLM fine-tuning) · Sentiment analysis · Speech-to-text · Image recognition · Anomaly detection
-
 ---
 
 ### 📂 Featured Projects
@@ -89,10 +91,10 @@ Amazon SageMaker (training, deployment, LLM fine-tuning) · Sentiment analysis �
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matei-necula&show_icons=true&theme=radical&hide_border=true" alt="Matei's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matei-necula&show_icons=true&theme=radical&hide_border=true&cache_bust=1" alt="Matei's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matei-necula&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matei-necula&layout=compact&theme=radical&hide_border=true&cache_bust=1" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=matei-necula&theme=radical&hide_border=true" alt="GitHub Streak" />
