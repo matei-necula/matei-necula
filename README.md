@@ -91,12 +91,6 @@ Amazon SageMaker (training, deployment, LLM fine-tuning) · Sentiment analysis �
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matei-necula&show_icons=true&theme=radical&hide_border=true&cache_bust=1" alt="Matei's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matei-necula&layout=compact&theme=radical&hide_border=true&cache_bust=1" alt="Top Languages" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=matei-necula&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
